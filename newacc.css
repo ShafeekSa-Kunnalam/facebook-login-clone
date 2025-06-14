@@ -1,0 +1,70 @@
+.logo img{
+    width: 350px;
+    margin-left: 39%;
+}
+.new_form{
+    width: 400px;
+    height: 700px;
+    background-color: white;
+    margin-left: 35%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow:  0 2px 4px #0000001a, 0 8px 16px #0000001a;;
+}
+.heading{
+    text-align: center;
+    padding-top: 20px;
+}
+.para1{
+    text-align: center;
+}
+.usr_inp{
+    width: 180px;
+    height: 23px;
+    padding: 5px;
+    margin-top: 8px;
+}
+.date{
+    width: 120px;
+    height: 35px;
+    margin: 4px;
+    
+}
+.gender{
+    margin-left: 10px;
+    margin-right: 37px;
+    border: 1px solid;
+    padding: 4px;
+
+    
+}
+.eml_psw{
+    width: 375px;
+    height: 23px;
+    margin-top: 13px;
+    padding: 5px;
+}
+.signup_btn{
+    width: 150px;
+    height: 30px;
+    pad: 5px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    align-items: center;
+    margin-left: 120px;
+}
+.para2{
+    text-align: center;
+    color: blue;
+}
+.fntsz{
+    font-size: 17px;
+}
+.para3{
+    font-size: 13px;
+    color: grey;
+}

@@ -1,0 +1,95 @@
+.left_box{
+    width: 50%;
+    height: 500px;
+    background-color: #fff;
+    float: left;
+}
+.right_box{
+    width: 50%;
+    height: 500px;
+    background-color: fff;
+    float: left;
+}
+.logo img{
+    width: 300px;
+    margin-top: 140px;
+    margin-left: 80px;
+    
+}
+.para h2{
+    margin-left:100px ;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 500px;
+    margin-top: 0px;
+}
+.log_form{
+    width: 380px;
+    height: 340px;
+    background-color: #fff;
+    margin-top: 100px;
+    margin-left: 100px;
+    border: none;
+    border-radius: 8px;
+    box-sizing: border-box;
+    box-shadow:  0 2px 4px #0000001a, 0 8px 16px #0000001a;;
+}
+.username{
+    margin-top: 20px;
+}
+.user{
+    width: 330px;
+    height: 40px;
+    margin-left: 20px;
+    
+    
+}
+.log_form p{
+    text-align: center;
+    font-family: inherit;
+    color: #0866ff;
+    font-size: 14px;
+    font-weight: 500;
+}
+.new_acc{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: #42b72a;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    height: 40px;
+    width: 200px;
+    margin-left: 85px;
+    font-weight: bold;
+    font-family: inherit;
+}
+.log_btn{
+    background-color: #0866ff;
+    color: white;
+    font-size: 20px;
+    border: none;
+    height:40px ;
+    border-radius: 6px;
+    font-weight: bold;
+    width: 350px;
+    margin-left: 20px;
+    font-family: inherit;
+    
+}
+.last_para{
+    font-size: 14px;
+    font-weight: 400;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    margin-left: 140px;
+    margin-top: 30px;
+}
+.usr_inp{
+    font-size: 17px;
+    padding-left: 10px;
+    
+}
